@@ -74,7 +74,7 @@ export default class FeatureService extends Service {
 
     @feature('beforeAfterCard')
         beforeAfterCard;
-    
+
     @feature('multipleNewsletters')
         multipleNewsletters;
 
@@ -95,6 +95,9 @@ export default class FeatureService extends Service {
 
     @feature('selectablePortalLinks')
         selectablePortalLinks;
+
+    @feature('milestoneEmails')
+        milestoneEmails;
 
     _user = null;
 
