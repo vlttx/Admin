@@ -36,7 +36,7 @@
     "@glimmer/component": "1.0.4",
     "@html-next/vertical-collection": "2.1.0",
     "@joeattardi/emoji-button": "4.6.4",
-    "@sentry/ember": "6.16.1",
+    "@sentry/ember": "6.19.4",
     "@tryghost/color-utils": "0.1.12",
     "@tryghost/ember-promise-modals": "2.0.1",
     "@tryghost/helpers": "1.1.61",
